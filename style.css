@@ -1,0 +1,59 @@
+.body {
+    position: absolute;
+}
+
+.a {
+    height: 46px;
+    width: 3800px;
+    position: relative;
+    background-color: whitesmoke;
+    left: -1px;
+    top: -1px;
+}
+
+.jordan {
+    height: 32px;
+    margin-left: 40px;
+    position: relative;
+    top: 5px;
+}
+
+.converse {
+    position: relative;
+    height: 26px;
+    top: 2px;
+}
+
+.letra {
+    position: relative;
+    top: -5px;
+    left: 1300px;
+}
+
+.separador {
+    position: relative;
+    top: -5px;
+    margin-left: 10px;
+    left: 1300px;
+    margin-right: 10px;
+}
+
+.b {
+    position: relative;
+    height: 56px;
+    width: 2000px;
+    border: thin solid red;
+}
+
+.nike {
+    position: relative;
+    height: 80px;
+    margin-left: 30px;
+    top: -10px;
+}
+
+.letra2 {
+    position: relative;
+    top: -45px;
+    margin-right: 15px;
+}
