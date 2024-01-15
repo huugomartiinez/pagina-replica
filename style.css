@@ -4,7 +4,7 @@
 
 .a {
     height: 46px;
-    width: 3800px;
+    width: 1900px;
     position: relative;
     background-color: whitesmoke;
     left: -1px;
@@ -41,8 +41,7 @@
 .b {
     position: relative;
     height: 56px;
-    width: 2000px;
-    border: thin solid red;
+    width: 1900px;
 }
 
 .nike {
@@ -54,6 +53,67 @@
 
 .letra2 {
     position: relative;
-    top: -45px;
+    top: -65px;
     margin-right: 15px;
+    right: 100px;
+}
+
+.b2 {
+    display: flex;
+    justify-content: center;
+}
+
+.cesta {
+    position: relative;
+    height: 35px;
+    top: -90px;
+    left: -25px;
+}
+
+.cestaa {
+    display: flex;
+    justify-content: right;
+}
+
+.corazon {
+    position: relative;
+    height: 45px;
+    top: -95px;
+    left: -35px
+}
+
+.buscar {
+    position: relative;
+    height: 40px;
+    width: 210px;
+    background-color: whitesmoke;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    top: -140px;
+    left: 1550px;
+}
+
+.lupa {
+    position: relative;
+    height: 35px;
+    left: 10px;
+    top: 3px;
+}
+
+.buscarr {
+    position: relative;
+    left: 15px;
+    top: -8px;
+    font-size: 20px;
+}
+
+.c {
+    height: 56px;
+    width: 1900px;
+    position: relative;
+    background-color: whitesmoke;
+    left: -1px;
+    top: -1px;
 }
