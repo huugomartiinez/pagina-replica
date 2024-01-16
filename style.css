@@ -117,3 +117,44 @@
     left: -1px;
     top: -1px;
 }
+
+.d {
+    margin-top: 20px;
+    height: 670px;
+}
+
+.chica1 {
+    position: relative;
+    left: -10px;
+    height: 669px;
+}
+
+.bambas {
+    position: relative;
+    left: -15px;
+    height: 669px;
+
+}
+
+.chica2 {
+    position: relative;
+    left: 1267px;
+    top: -673px;
+    height: 669px;
+
+}
+
+.e {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.lomejor {
+    margin-bottom: 30px;
+}
+
+.fotoslomejor {
+    position: relative;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
